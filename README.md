@@ -11,11 +11,3 @@ Welcome to the Deep Learning repository! This repository contains code examples 
 ## Usage
 
 Feel free to explore the contents of this repository to review lecture materials and work on projects. Each directory contains its own README file with specific instructions and explanations.
-
-## Contributions
-
-Contributions to this repository are welcome! If you have additional code examples, projects, or improvements to existing content, feel free to submit a pull request.
-
-## License
-
-The code in this repository is provided under the [LICENSE NAME] License. Please refer to the [LICENSE](LICENSE) file for more information.
