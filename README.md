@@ -1,5 +1,3 @@
-Certainly! Here's a README template for your deep-learning repository:
-
 # Deep Learning Repository
 
 Welcome to the Deep Learning repository! This repository contains code examples and projects related to deep learning concepts and techniques. The content in this repository was obtained from previous lectures and serves as a resource for learning and practicing deep learning skills.
